@@ -11,5 +11,5 @@
     <columns>InvoiceDate</columns>
     <columns>DueDate</columns>
     <filterScope>Mine</filterScope>
-    <label>Mis facturas</label>
+    <label>My Invoices</label>
 </ListView>

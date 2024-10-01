@@ -128,7 +128,6 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
     <searchLayouts>
         <customTabListAdditionalFields>AssetAction</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>AssetAction</lookupDialogsAdditionalFields>

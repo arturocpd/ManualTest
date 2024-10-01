@@ -41,7 +41,27 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
+        <name>standard__Insights</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningSalesConsole</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningService</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>standard__LightningSales</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningInstrumentation</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -77,96 +97,44 @@
         <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Test Community</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Tabs</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Test_Omni_commit</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningInstrumentation</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Canvas_App</name>
-        <type>ConnectedApp</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Test_Connected_App</name>
-        <type>ConnectedApp</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Connected_App_YAML</name>
-        <type>ConnectedApp</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__SalesforceCMS</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>NGService</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Test_App</name>
+        <name>copado__Copado</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Sales_Console</name>
+        <name>copado__Copado_Branch_Management</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>DEVHUB_ni0yten87ohyam8cfjlu</name>
-        <type>ConnectedApp</type>
+        <name>copado__Copado_Change_Management</name>
+        <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Test Community Experience</name>
-        <type>Network</type>
+        <name>copado__Copado_Compliance_Hub</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>copado__Copado_Console</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>copado__Copado_Permissioner</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>copado__Copado_Selenium_Testing</name>
+        <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
         <name>standard__AllTabSet</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>ARPartner</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>AR Services Test</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>SCATest</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__OMConsole</name>
+        <name>standard__DataManager</name>
         <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>ardigital</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>V_Test_App</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>TestAura</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>servicewinter</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>knownissue</name>
-        <type>Network</type>
     </appMenuItems>
     <appMenuItems>
         <name>standard__FlowsApp</name>

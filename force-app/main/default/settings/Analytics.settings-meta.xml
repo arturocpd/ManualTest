@@ -63,6 +63,7 @@
     <maxHoursAppInProgress>48</maxHoursAppInProgress>
     <queryCachingOptOut>false</queryCachingOptOut>
     <recipeDirectDataPref>true</recipeDirectDataPref>
+    <recipeFiscalPref>false</recipeFiscalPref>
     <recipePreCachingOptOut>false</recipePreCachingOptOut>
     <recipeStagedDataPref>false</recipeStagedDataPref>
     <replaceBlankMeasuresWithNulls>false</replaceBlankMeasuresWithNulls>

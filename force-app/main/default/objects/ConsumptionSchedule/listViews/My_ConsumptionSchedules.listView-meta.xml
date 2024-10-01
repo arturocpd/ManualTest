@@ -2,5 +2,5 @@
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>My_ConsumptionSchedules</fullName>
     <filterScope>Mine</filterScope>
-    <label>Mis programaciones de consumo</label>
+    <label>My Consumption Schedules</label>
 </ListView>

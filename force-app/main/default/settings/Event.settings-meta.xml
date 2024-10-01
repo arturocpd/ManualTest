@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EventSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <bypassMeteringBlock>false</bypassMeteringBlock>
-    <enableDeleteMonitoringData>true</enableDeleteMonitoringData>
+    <enableDeleteMonitoringData>false</enableDeleteMonitoringData>
     <enableDynamicStreamingChannel>false</enableDynamicStreamingChannel>
     <enableEventLogGeneration>false</enableEventLogGeneration>
     <enableLightningLoggerEvents>false</enableLightningLoggerEvents>

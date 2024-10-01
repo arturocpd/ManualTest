@@ -11,5 +11,5 @@
     <columns>TotalTaxAmount</columns>
     <columns>CreditDate</columns>
     <filterScope>Mine</filterScope>
-    <label>Mis memorándums de crédito</label>
+    <label>My Credit Memos</label>
 </ListView>

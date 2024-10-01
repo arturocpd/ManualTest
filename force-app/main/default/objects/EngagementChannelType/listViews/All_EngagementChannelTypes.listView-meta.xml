@@ -2,5 +2,5 @@
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>All_EngagementChannelTypes</fullName>
     <filterScope>Everything</filterScope>
-    <label>Todos los Tipos de canales de implicación</label>
+    <label>All Engagement Channel Types</label>
 </ListView>

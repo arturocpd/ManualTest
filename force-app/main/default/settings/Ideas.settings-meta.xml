@@ -3,7 +3,7 @@
     <enableChatterProfile>true</enableChatterProfile>
     <enableHtmlIdea>true</enableHtmlIdea>
     <enableIdeaMultipleCategory>true</enableIdeaMultipleCategory>
-    <enableIdeaThemes>true</enableIdeaThemes>
+    <enableIdeaThemes>false</enableIdeaThemes>
     <enableIdeas>true</enableIdeas>
     <enableIdeasControllerExtensions>false</enableIdeasControllerExtensions>
     <enableIdeasReputation>false</enableIdeasReputation>

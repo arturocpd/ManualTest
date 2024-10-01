@@ -58,7 +58,6 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
     <searchLayouts>
         <customTabListAdditionalFields>IDEA.TITLE</customTabListAdditionalFields>
         <customTabListAdditionalFields>IDEA.BODY</customTabListAdditionalFields>
@@ -70,7 +69,6 @@
         <customTabListAdditionalFields>IDEA.CATEGORIES</customTabListAdditionalFields>
         <customTabListAdditionalFields>IDEA.STATUS</customTabListAdditionalFields>
         <customTabListAdditionalFields>IDEA.LAST_COMMENT_DATE</customTabListAdditionalFields>
-        <customTabListAdditionalFields>IDEA.IDEA_THEME</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>IDEA.TITLE</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>COMMUNITY.NAME</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>IDEA.TITLE</lookupPhoneDialogsAdditionalFields>

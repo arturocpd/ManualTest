@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations CV8</h1>
+  This is your new Page
+  <!-- generating a conflict for US-0182771 End Default Content REMOVE THIS -->
+</apex:page>

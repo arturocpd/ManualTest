@@ -7,5 +7,5 @@
     <columns>TransactionDate</columns>
     <columns>EffectiveDate</columns>
     <filterScope>Mine</filterScope>
-    <label>Mis Transacciones financieras</label>
+    <label>My Finance Transactions</label>
 </ListView>

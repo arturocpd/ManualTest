@@ -49,6 +49,5 @@
     </quickActionLayout>
     <standardLabel>New</standardLabel>
     <targetObject>Event</targetObject>
-    <targetRecordType>Event.Time</targetRecordType>
     <type>Create</type>
 </QuickAction>

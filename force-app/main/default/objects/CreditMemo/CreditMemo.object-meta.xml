@@ -100,7 +100,6 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-    <externalSharingModel>Private</externalSharingModel>
     <searchLayouts>
         <customTabListAdditionalFields>BillingAccount</customTabListAdditionalFields>
         <customTabListAdditionalFields>Status</customTabListAdditionalFields>
@@ -131,5 +130,5 @@
         <searchResultsAdditionalFields>TotalTaxAmount</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CreditDate</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>Private</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

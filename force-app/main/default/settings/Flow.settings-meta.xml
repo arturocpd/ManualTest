@@ -18,7 +18,7 @@
     <enableFlowReactiveScreens>false</enableFlowReactiveScreens>
     <enableFlowUseApexExceptionEmail>false</enableFlowUseApexExceptionEmail>
     <enableFlowViaRestUsesUserCtxt>true</enableFlowViaRestUsesUserCtxt>
-    <enableLightningRuntimeEnabled>false</enableLightningRuntimeEnabled>
+    <enableLightningRuntimeEnabled>true</enableLightningRuntimeEnabled>
     <isApexPluginAccessModifierRespected>true</isApexPluginAccessModifierRespected>
     <isEnhancedFlowListViewVisible>true</isEnhancedFlowListViewVisible>
     <isFlowBlockAccessToSessionIDEnabled>true</isFlowBlockAccessToSessionIDEnabled>

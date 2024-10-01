@@ -31,10 +31,4 @@
         <label>Deferred</label>
         <closed>false</closed>
     </standardValue>
-    <standardValue>
-        <fullName>Waiting</fullName>
-        <default>false</default>
-        <label>Waiting</label>
-        <closed>false</closed>
-    </standardValue>
 </StandardValueSet>

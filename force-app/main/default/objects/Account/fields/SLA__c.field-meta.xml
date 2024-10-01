@@ -28,16 +28,6 @@
                 <default>false</default>
                 <label>Bronze</label>
             </value>
-            <value>
-                <fullName>Iron</fullName>
-                <default>false</default>
-                <label>Iron</label>
-            </value>
-            <value>
-                <fullName>Wood</fullName>
-                <default>false</default>
-                <label>Wood</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Active__c</fullName>
+    <description>testing</description>
     <label>Active</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
@@ -17,11 +18,6 @@
                 <fullName>Yes</fullName>
                 <default>false</default>
                 <label>Yes</label>
-            </value>
-            <value>
-                <fullName>Unknown</fullName>
-                <default>false</default>
-                <label>Unknown</label>
             </value>
         </valueSetDefinition>
     </valueSet>

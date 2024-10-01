@@ -6,5 +6,5 @@
     <columns>Description</columns>
     <columns>Status</columns>
     <filterScope>Mine</filterScope>
-    <label>Mis entidades legales</label>
+    <label>My Legal Entities</label>
 </ListView>
