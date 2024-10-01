@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Picklist__c</fullName>
+    <label>Account Picklist</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>account value 1</fullName>
+                <default>false</default>
+                <label>account value 1</label>
+            </value>
+            <value>
+                <fullName>account value 2</fullName>
+                <default>false</default>
+                <label>account value 2</label>
+            </value>
+            <value>
+                <fullName>account value 3</fullName>
+                <default>false</default>
+                <label>account value 3</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

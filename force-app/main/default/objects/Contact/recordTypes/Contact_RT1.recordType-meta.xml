@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Contact_RT1</fullName>
+    <active>true</active>
+    <label>Contact RT1</label>
+    <picklistValues>
+        <picklist>Contact_Picklist__c</picklist>
+        <values>
+            <fullName>contact value 1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>contact value 2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>contact value 3</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>GoodBad__c</picklist>
+        <values>
+            <fullName>Good</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LeadSource</picklist>
+        <values>
+            <fullName>One more CI test</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Partner Referral</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Purchased List</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>RT test with CI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Test CI</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Level__c</picklist>
+        <values>
+            <fullName>Primary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Secondary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tertiary</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Name</picklist>
+        <values>
+            <fullName>Doctor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mr%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mrs%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ms%2E</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Test_Simple_Picklist1__c</picklist>
+        <values>
+            <fullName>Apple</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Banana</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kiwi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Orange</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
