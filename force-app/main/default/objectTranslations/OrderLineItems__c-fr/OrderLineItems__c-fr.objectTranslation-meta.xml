@@ -9,6 +9,6 @@
         <value>OrderLineItems</value>
     </caseValues>
     <gender>Masculine</gender>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- OrderLineItems Name --></nameFieldLabel>
     <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>
